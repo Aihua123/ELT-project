@@ -13,7 +13,7 @@
 
 # Part I:
 # 1. extracted the first actor's name from cast, created wiki urls for each actor and scraped birthday, bithplace, nickname from wikipedia.
-# 2. used splitner to run goole search for each moives'reviews (search by keywords "/movie name/ reviews", i.e. "Spider-Man 3 reviews"), from the google results I was able to get IMDB reviews links and critic reviews from various source (this is usually the first result comes up when you run a google search with the keywords above, see iamge-critic reviews as an example)
+# 2. used splitner to run goole search for each moives'reviews (search by keywords "/movie name/ reviews", i.e. "Spider-Man 3 reviews"), from the google results I was able to get IMDB reviews links and critic reviews from various source (this is usually the first result comes up when you run a google search with the keywords above, see image-critic reviews as an example)
 # 3. saved the result as a csv for Part II.
 
 # Part II:
