@@ -1,8 +1,7 @@
 # ELT-project
 
-# Source of database
+# Source of data: kaggle
 # Name: TMDB 5000 credits/TMDB 5000 movies 
-# From: kaggle
 # Link: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 # Project Overview
